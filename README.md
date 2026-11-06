@@ -1,1 +1,1 @@
-# jackson-hole-waterfall-map
+# Jackson Hole Waterfall Map
